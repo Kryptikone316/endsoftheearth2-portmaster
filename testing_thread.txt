@@ -1,0 +1,32 @@
+Instructions to install the Testing Zip:
+Drop the testing ZIP into your PortMaster autoinstall folder and run PortMaster.
+
+Game Information
+Title: Ends of the Earth 2
+URL: https://rpg.hamsterrepublic.com/ohrrpgce/Game:Ends_of_the_Earth_2
+
+Instructions:
+Not ready to run without user-supplied data. Download EOTE2.RPG from:
+https://mirror.motherhamster.org/cp/castleparadox.com/gamelist-display-247.html?game=493
+Place EOTE2.RPG in the installed endsoftheearth2 folder next to ohrrpgce-game.
+
+| Button | Action |
+|--|--|
+| D-Pad | Directional movement |
+| A | Investigate, advance, and confirm |
+| B | Raise menu, cancel, or flee battle |
+| X | Sprint on the field while held |
+| Y | Pause during battle |
+
+CFW Tests:
+[x] AmberELEC (R36xx)
+[x] ArkOS / dArkOS (R36S, OGA)
+[x] ROCKNIX (RP5, Powkiddy X55, Mangmi Air X)
+[x] muOS (RG SP)
+[x] Knulli (RGCubexx)
+
+Resolutions:
+[ ] 480x320 (Optional)
+[x] 640x480
+[ ] 720x720 (RGB30) (Optional)
+[x] Higher resolutions (for example, 1280x720)
